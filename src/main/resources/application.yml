@@ -1,0 +1,7 @@
+spring.datasource:
+  url: 'jdbc:postgresql://localhost:5432/gb_shop'
+  username: 'postgres_user1'
+  password: '123'
+
+server.port: '8457'
+
